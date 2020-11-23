@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>479927640578-qfvd38rj5dm61kv5e7u043nf5ghs5pms.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.479927640578-qfvd38rj5dm61kv5e7u043nf5ghs5pms</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>479927640578-7oh84cjd1a34tako6c2p9983q2aqg8ml.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDQ-GQdHc8JQ2H0lMHpAmPCFzeT6dvRcxM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>479927640578</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.danarcheronline.ambition</string>
+	<key>PROJECT_ID</key>
+	<string>ambition-a9ff6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ambition-a9ff6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:479927640578:ios:c3654d45b8c869d149bd1b</string>
+	<key>DATABASE_URL</key>
+	<string>https://ambition-a9ff6.firebaseio.com</string>
+</dict>
+</plist>
